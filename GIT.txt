@@ -1,0 +1,21 @@
+                                                                            GIT
+*GIT is a version controlling system of a project that is being developed by multiple resources working on it simultaneously.(Backend engine).
+                                                                             
+                                                                           GITHUB
+*GITHUB is a website which is used to upload our project and control various versions of project using GIT.(Engine interface).
+WEBPAGE means is an eletronic doc written in HTML SHARING THE INFORMATION ACROSS THE WORLD WIDE WAR(WWW) WITH THE HELP OF http PROTOCAL
+
+*TO use a git hub create a github account.
+
+                                                                          REPOSITORY:
+*Repository is used to hold the complete information of a single project.
+*It consists of multiple folders.
+*Itcan also hold multiple types of files.
+*GITHUB not only holds the project and files in it.and it also allows to open and edit the files and save it in the same repository.
+*GITHUB also allows our project from the repository to link with the domain.
+
+EXAMPLE:
+WWW.gmail.com
+gmail
+files
+https://github.com/Vyshnavichikkala/firstproject.git
