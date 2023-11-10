@@ -1,4 +1,4 @@
-                                                                            GIT INTRO  
+                                                                            GIT INTroduction
 *GIT is a version controlling system of a project that is being developed by multiple resources working on it simultaneously.(Backend engine).
                                                                              
                                                                            GITHUB
